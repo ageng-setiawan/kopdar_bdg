@@ -1,0 +1,2 @@
+# kopdar_bdg
+GNURIndonesia
